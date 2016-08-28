@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @GJagjeet
- Watch 1
-  Star 0
-  Fork 93,643 ezag/coursera-rprog-2-lexical-scoping
-forked from rdpeng/ProgrammingAssignment2
- Code  Pull requests 2  Pulse  Graphs
-Branch: master Find file Copy pathcoursera-rprog-2-lexical-scoping/cachematrix.R
-37b85ad  on Dec 5, 2014
-@ezag ezag Implement caching the inverse of a matrix
-2 contributors @rdpeng @ezag
-RawBlameHistory     50 lines (45 sloc)  1.11 KB
 ## Functions that cache the inverse of a matrix
 ##
 ## Usage example:
@@ -65,5 +48,3 @@ cacheSolve <- function(x, ...) {
     x$setinverse(i)
     i
 }
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
